@@ -1,4 +1,4 @@
-This repository, modified from BurgerZ/MIUI-v4-extra, includes additional, modification and localisation files used in MIUI Australia ROMs 3.2.22 and earlier.
+This repository, modified from BurgerZ/MIUI-v4-extra, includes additional, modification and localisation files used in V5 MIUI Australia ROMs.
 
 ---------------------------------------------------------------------------------------------
 
